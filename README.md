@@ -1,6 +1,6 @@
 # JikeHub
 web for Jikes
-
+这是一个机客们的站，兄弟萌来维护网站啊,
 
 
 #用到的工具(tools and base)
